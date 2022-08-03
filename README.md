@@ -28,7 +28,7 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Thayyllon&repo=Thayyllon&theme=react)](https://github.com/Thayyllon/Thayyllon)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Thayyllon&repo=Formula_Calculator_CSharp&theme=react)](https://github.com/Thayyllon/Thayyllon)
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Thayyllon&repo=Project_Words_Crusades&theme=react)](https://github.com/Thayyllon/Thayyllon)
  
 
