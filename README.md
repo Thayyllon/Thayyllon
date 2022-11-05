@@ -7,6 +7,9 @@
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thayyllon&layout=compact&langs_count=7&theme=react" />
 
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+    
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a0733936-a44e-42b7-805f-d5e76cb7f66f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    
 </div>
  <br>
 <div  align="center"> 
