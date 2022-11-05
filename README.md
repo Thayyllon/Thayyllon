@@ -25,11 +25,13 @@
   </br>
   <a href="https://www.instagram.com/_thy_rms_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thaylon-roberto-9b0b93207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a0733936-a44e-42b7-805f-d5e76cb7f66f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
  
   ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a0733936-a44e-42b7-805f-d5e76cb7f66f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
     
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Thayyllon&repo=CTF_Machines&theme=react)](https://github.com/Thayyllon/Thayyllon)
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Thayyllon&repo=ShellScript&theme=react)](https://github.com/Thayyllon/Thayyllon)
