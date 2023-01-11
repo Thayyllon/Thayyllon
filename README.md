@@ -1,5 +1,5 @@
 <h1> Hello! My name is Thaylon Roberto, I'am a CyberSecurity Agent. </h1>
-<h2> I am currently training for the knowledge olympiad at SENAI-DF in the CyberSecurity modality. Check out more of <a href="https://worldskills.org">WordSkills</a> </h2>
+<h2> I am currently training for the WordSkills olympiad at SENAI-DF in the CyberSecurity modality. Check out more of <a href="https://worldskills.org">WordSkills</a> </h2>
 
 <div>
   <a href="https://github.com/Thayyllon">
