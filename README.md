@@ -22,6 +22,8 @@
   </br>
   </br>
   <img src="https://tryhackme-badges.s3.amazonaws.com/Thayyllon.png" alt="TryHackMe">
+  </br>
+  <img src="https://github.com/Thayyllon/Thayyllon/blob/main/ccna_med.gif">
     
 </div>
   </br>
