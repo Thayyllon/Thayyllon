@@ -13,9 +13,6 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
   </br>
-  </br>
-  </br>
-  </br>
   <img src="https://github.com/Thayyllon/Thayyllon/blob/main/ccna_med.gif">
     
 </div>
