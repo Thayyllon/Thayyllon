@@ -1,5 +1,5 @@
-<h1> Hello! My name is Thaylon Roberto, I'am a CyberSecurity Agent. </h1>
-<h2> I am currently training for the WordSkills olympiad at SENAI-DF in the CyberSecurity modality. Check out more of <a href="https://worldskills.org">WorldSkills</a> </h2>
+<h1> Olá, Me chamo Thaylon, sou campeão nacional de CiberSegurança 2023 - WorldSkills Lyon </h1>
+<h2> Atualmente estou em treinamento para a WorldSkills Lyon 2024 na modalidade #54 CiberSegurança. Veja mais sobre a maior competição de habilidades tecnicas do mundo <a href="https://worldskills.org">WorldSkills</a> </h2>
 
 <div>
   <a href="https://github.com/Thayyllon">
